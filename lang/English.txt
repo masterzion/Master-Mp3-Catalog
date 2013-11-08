@@ -1,0 +1,85 @@
+Listing files and subdirectorys
+Loading data...
+Updating  list...
+Total:
+Updating tree...
+You want to delete
+Deleting...
+&File
+&Edit
+&Help
+&Import
+Import files
+&Save
+Save list
+Add &Volume
+Add a unit 
+&Delete
+Delete this volume
+Pre&ferences
+Options of program
+Help 
+Help topics
+&About
+About Master mp3 Catalog
+E&xit
+Exit Program 
+Update
+Update List
+Select a directory:
+CD Name:
+Cancel
+Find
+File:
+Directory:
+Close
+Volume
+Updating Language...
+Text:
+Artist
+Name
+Album
+Year
+Coment
+Volume
+Diretory
+File
+All
+Edit preferences
+Save
+Language
+MP3 Player
+Path
+Programs (*.exe;*.com;*.bat)|*.exe;*.com;*.bat|All Files (*.*)|*.*
+Play
+Play MP3
+Parameters
+Export
+Export PlayList
+PlayList (*.m3u)|*.m3u|All Files (*.*)|*.*
+Open PlayList after save
+Info
+Info of File
+Folders
+Insert here the folders with mp3 of diferents bands:
+Delimiter:
+Export HTML
+Exportar HTML File
+Use drag and drop to change item order
+Page Properties
+Preview
+Title
+Font Color
+Background Color
+Add header
+Export
+Save as
+Save changes to database?
+All
+Change
+Cancel
+Change drive
+Change drive of this volume
+Change drive of all volumes
+Actual Drive:
+New Drive:

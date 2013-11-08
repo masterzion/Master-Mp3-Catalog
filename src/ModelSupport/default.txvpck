@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="dz1t5z45r_v">
+    <property name="$name" value="default" />
+    <property name="$defaultDiagram" value="True" />
+    <property name="$metaclass" value="Package Diagram" />
+    <reference referencedUin="design:view:::9x1lxpl6s_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="150,420,99,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:volume.TFormVolume" />
+    </reference>
+    <reference referencedUin="design:view:::2v13oodms_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="170,50,104,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:principal.TFormPrincipal" />
+    </reference>
+    <reference referencedUin="design:view:::lv1ftxdyk_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="530,30,80,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:info.TFormInfo" />
+    </reference>
+    <reference referencedUin="design:view:::6w1z12w5f_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="570,150,95,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:splash.TFormSplash" />
+    </reference>
+    <reference referencedUin="design:view:::rw1hw278n_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="430,340,123,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:exportHTML.TFormExportHTML" />
+    </reference>
+    <reference referencedUin="design:view:::am1ixhnag_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="300,220,102,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:listaarq.TFormListaArq" />
+    </reference>
+    <reference referencedUin="design:view:::0y128m9zq_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="670,280,100,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:opcoes.TFormOpcoes" />
+    </reference>
+    <reference referencedUin="design:view:::oy1sbedkh_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="340,400,91,98" />
+      <reference referencedUin="delphi:e_class:src:mmc:sobre.TFormSobre" />
+    </reference>
+  </view>
+</nodeSet>

@@ -1,0 +1,19 @@
+:Base mmc.hlp
+1 Inicio
+2 Sobre=1
+2 Principal=8
+2 Barra de Ferramentas
+3 Barra de Ferramentas=4
+3 Adicionando um novo volume=2
+3 Salvar=4
+3 Alterar Drive=3
+3 Atualizar=4
+3 Apagar=4
+3 Exportar para HTML=5
+3 Exibir Detalhes=6
+3 Playlist=4
+3 Tocar=4
+3 Preferencias=7
+3 Ajuda=4
+3 Sobre=4
+3 Sair=4

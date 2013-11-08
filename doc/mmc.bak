@@ -1,0 +1,435 @@
+JBHFILEVERSION
+3
+mmc
+16777215
+16777215
+0
+0
+640
+480
+18
+Inicio
+Inicio
+
+TRUE
+	Sobre
+Sobre
+Inicio
+FALSE
+	Principal
+Principal
+Principal
+FALSE
+	Barra de Ferramentas
+Barra de Ferramentas
+
+TRUE
+		Barra de Ferramentas
+Barra de Ferramentas
+Barra de Ferramentas
+FALSE
+		Adicionando um novo volume
+Adicionando um novo volume
+Adicionando um novo volume
+FALSE
+		Salvar
+Salvar
+Barra de Ferramentas
+FALSE
+		Alterar Drive
+Alterar Drive
+Alterar drive
+FALSE
+		Atualizar
+Atualizar
+Barra de Ferramentas
+FALSE
+		Apagar
+Apagar
+Barra de Ferramentas
+FALSE
+		Exportar para HTML
+Exportar para HTML
+Exportar para HTML
+FALSE
+		Exibir Detalhes
+Exibir Detalhes
+Exibir detalhes
+FALSE
+		Playlist
+Playlist
+Barra de Ferramentas
+FALSE
+		Tocar
+Tocar
+Barra de Ferramentas
+FALSE
+		Preferencias
+Preferencias
+Preferencias
+FALSE
+		Ajuda
+Ajuda
+Barra de Ferramentas
+FALSE
+		Sobre
+Sobre
+Barra de Ferramentas
+FALSE
+		Sair
+Sair
+Barra de Ferramentas
+FALSE
+8
+Inicio
+1
+1
+1
+
+12
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20  Supernova
+\par Master Mp3 Catalog
+\par 
+\par 
+\par \cf2\ul\b0\protect #index_01.bmp#\cf1\ulnone\b  \protect0 
+\par 
+\par 
+\par 
+\par Se voc\'ea \'e9 um usuario iniciante clique \cf2\ul\b0\protect ##Adicionando um novo volume##\cf1\ulnone\b  \protect0 ! \lang1033\b0\f1 
+\par }
+0
+1
+Adicionando um novo volume
+0
+Adicionando um novo volume
+aqui
+FALSE
+1
+index_01.bmp
+Adicionando um novo volume
+
+2
+
+
+36
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20  Adicionando um novo volume\b0 
+\par \pard 
+\par O primeiro passo \'e9 clicar no bot\'e3o que parece um CD na tela principal conforme indica a imagem abaixo.
+\par 
+\par \pard\qc\cf2\ul\protect #vol0.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Ao clicar uma tela ira aparecer .
+\par 
+\par \pard\qc\cf2\ul\protect #vol1.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Clique no bot\'e3o com o desenho de uma pasta solicitar um caminho (pasta, CD, DVD) onde as mp3 ser\'e3o localizadas em seguida clique em OK.
+\par 
+\par \pard\qc\cf2\ul\protect #vol2.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Em seguuida, no campo onde est\'e1 escrito "Nome do CD:" coloque no nome que vc pretende dar a esse volume e sem seguida clique em procurar.
+\par 
+\par \pard\qc\cf2\ul\protect #vol3.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Um nova janela ir\'e1 aparecer mostrando as pastas que est\'e3o sendo procuradas as musicas.?
+\par O cadastro \'e9 totalmente automatico.
+\par 
+\par \pard\qc\cf2\ul\protect #vol4.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Ao concluir o processo de procura e cataloga\'e7\'e3o, seu volume ser\'e1 listado a esquerda da tela principal.
+\par 
+\par \pard\qc\cf2\ul\protect #vol5.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Clique em salvar para atualizar o banco de dados.
+\par 
+\par \pard\qc\cf2\ul\protect #vol6.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par 
+\par \lang1033\f1 
+\par }
+0
+0
+7
+vol0.bmp
+vol1.bmp
+vol2.bmp
+vol3.bmp
+vol4.bmp
+vol5.bmp
+vol6.bmp
+Alterar drive
+
+3
+
+
+20
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20 Alterar Drive
+\par \pard\b0 
+\par Algumas vezes, quando adicionamos mais um HD ou parti\'e7\'e3o nos computadores.
+\par Outras, temos mais de um drive de CD ou nosso pendrive/mp3 player fica montado em um drive diferente (exemplo: D:, E: F:).
+\par 
+\par O Master Mp3 Catalog permite executar uma musica chamando um programa externo (desde que a midia de CD esteja no computador).
+\par 
+\par Por\'e9m quando vc localizou as musicas o CD/pendrive ficava no drive D: por exemplo e agora est\'e1 no drive E: .
+\par 
+\par Para que o programa chame a musica em seu novo caminho \'e9 preciso alterar o drive pasta selecionar o volume cadastrado do lado esquerdo da tela principal e clicar no bot\'e3o que parece 2 CDs na tela principal e uma nova tela ir\'e1 aparecer.
+\par 
+\par \pard\qc\cf2\ul\protect #alterar.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Essa tela ir\'e1 exibir qual o drive atual selecionado uma lista para selecionar qual novo drive vc pretende mudar.
+\par 
+\par Selecione o drive desejado e clique em alterar.
+\par \lang1033\f1 
+\par }
+0
+0
+1
+alterar.bmp
+Barra de Ferramentas
+
+4
+
+
+23
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20 Barra de ferramentas\b0 
+\par \pard 
+\par 
+\par A barra de ferramentas nos fornece diversos recursos:
+\par \cf2\ul\protect #main3.bmp#\cf1\ulnone  \protect0 
+\par \pard\qc 
+\par \pard\lang1033\f1 
+\par \cf2\ul\protect #btnadd.bmp#\cf1\ulnone  \cf2\ul ##Adicionando um novo volume##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect #btnsalvar.bmp#\cf1\ulnone  \lang1046\protect0\f0 Grava as informa\'e7\'f5es no banco de dados\lang1033\f1 
+\par \cf2\ul\protect #btnaltera.bmp#\cf1\ulnone  \cf2\ul ##Alterar drive##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect #btnatualiza.bmp#\cf1\ulnone  \lang1046\protect0\f0 Carrega o banco de dados novamente
+\par \cf2\ul\protect #btnApagar.bmp#\cf1\ulnone  \protect0  Apaga o volume selecionado
+\par \cf2\ul\protect #btnExportar.bmp#\cf1\ulnone  \cf2\ul ##Exporta para HTML##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect #btnDetalhes.bmp#\cf1\ulnone  \cf2\ul ##Exibir detalhes##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect #btnPlaylist.bmp#\cf1\ulnone  \protect0 Exporta uma lista de execu\'e7\'e3o e abre com o player configurado em \cf2\ul\protect ##Preferencias##\cf1\ulnone  \protect0  .
+\par \cf2\ul\protect #btnTocar.bmp#\cf1\ulnone  \protect0 Toca a musica selecionada (Nota: A midia tem que estar inserida no computador).
+\par \cf2\ul\protect #btnPropriedades.bmp#\cf1\ulnone  \cf2\ul ##Preferencias##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect #btnAjuda.bmp#\cf1\ulnone  \protect0 Exibe a tela de help. Acredito que voc\'ea ja achou esse bot\'e3o. =) 
+\par \cf2\ul\protect #btnSobre.bmp#\cf1\ulnone  \protect0 Mostra detalhes da Supernova Consultoria (empresa que criou esse programa para voc\'ea)
+\par \cf2\ul\protect #btnSair.bmp#\cf1\ulnone  \protect0 Sai do Programa\lang1033\f1 
+\par }
+0
+5
+Adicionando um novo volume
+0
+Adicionando um novo volume
+Adicionando um novo volume
+FALSE
+Alterar drive
+0
+Alterar drive
+Alterar drive
+FALSE
+Exporta para HTML
+0
+Exportar para HTML
+Exporta para HTML
+FALSE
+Exibir detalhes
+0
+Exibir detalhes
+Exibir detalhes
+FALSE
+Preferencias
+0
+Preferencias
+Opções do programa
+FALSE
+14
+btnadd.bmp
+btnaltera.bmp
+btnatualiza.bmp
+btnApagar.bmp
+btnsalvar.bmp
+btnExportar.bmp
+btnDetalhes.bmp
+btnPlaylist.bmp
+btnTocar.bmp
+btnPropriedades.bmp
+btnAjuda.bmp
+btnSobre.bmp
+btnSair.bmp
+main3.bmp
+Exportar para HTML
+
+5
+
+
+39
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\b\f0\fs20 Exportar para HTML
+\par \pard 
+\par \lang1046\b0\f1 Essa tela exporta sua busca ou os dados para do volume selecionado para HTML para que voc\'ea passe sua listagem para seus amigos.
+\par 
+\par 
+\par Ela \'e9 composta por duas ABAS
+\par 
+\par \b Propriedades da P\'e1gina\b0 
+\par A primeira ABA Propriedades da P\'e1gina voc\'ea pode configurar o layout da listagem de saida.
+\par 
+\par \pard\qc\cf2\ul\protect #ExportarHTML1.bmp#\cf1\ulnone  \protect0 
+\par 
+\par \pard Voc\'ea pode selecionar a ordem que os campos ser\'e3o listados arrastando e soltando os itens da listagem da esqueda.
+\par Somente os itens checados ser\'e3o  exportados.
+\par 
+\par No painel a direita voc\'ea seleciona a cor da fonte, do fundo e do cabe\'e7alho.
+\par 
+\par \b Visualizar
+\par \b0 Na tela visualizar temos um preview de como ficar\'e1 essa listagem e se suas configura\'e7\'f5es est\'e3o ok.
+\par 
+\par Para concluir a opera\'e7\'e3o clique em Exportar na apa Propriedades da P\'e1gina.
+\par 
+\par \pard\qc\cf2\ul\protect #ExportarHTML3.bmp#\cf1\ulnone  \lang1033\protect0\f0 
+\par 
+\par \pard\lang1046\f1 Digite o nome do arquivo e clique em salvar.
+\par 
+\par Para usuarios avan\'e7ados \'e9 possivel configurar ainda mais o a saida dos dados.
+\par Um arquivo chamado layout.html na mesma pasta do programa cont\'e9m todos os parametros que ser\'e3o exportados pela tela. Esse arquivo possue a seguintes tags:
+\par 
+\par <MMC_TITLE> - Titulo exportado pelo programa
+\par <MMC_BG_COLOR> - Cor do fundo selecionada no programa
+\par <MMC_FONT_COLOR>  - Cor da fonte selecionado no programa
+\par <MMC_TABLE> - Listagem dos dados
+\par <MMC_TOTAL> - Total de arquivos Listados
+\par 
+\par \lang1033\f0 
+\par }
+0
+0
+3
+ExportarHTML1.bmp
+ExportarHTML2.bmp
+ExportarHTML3.bmp
+Exibir detalhes
+
+6
+
+
+8
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20 Detalhes
+\par \pard 
+\par \b0 Essa tela serve apenas para mostrar todos os detalhes de um item selecionado.
+\par 
+\par \cf2\ul\protect #detalhes.bmp#\cf1\ulnone  \lang1033\protect0\f1 
+\par }
+0
+0
+1
+detalhes.bmp
+Preferencias
+
+7
+
+
+51
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20 Op\'e7\'f5es do programa
+\par \b0 
+\par \pard Essa tela \'e9 compostas por 3 Abas.
+\par 
+\par \b Idiomas\b0 
+\par Em Idiomas, voce seleciona o idioma do programa.
+\par 
+\par \pard\qc\cf2\ul\protect #preferencias1.bmp#\cf1\ulnone  \lang1033\protect0\f1 
+\par 
+\par \pard\lang1046\b\f0 mp3 player\lang1033\b0\f1 
+\par \lang1046\f0 Em  mp3 player voc\'ea configura seu programa mp3 player favorito (recomendamos o winamp).
+\par O primeiro campo voc\'ea adiciona o caminho onde esta instalado o programa.
+\par O segundo s\'e3o os parametros de execu\'e7\'e3o onde %s \'e9 o nome da musica.
+\par 
+\par \pard\qc\cf2\ul\protect #preferencias2.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par Ent\'e3o o programa \'e9 executado da seguinte forma:
+\par ex: 
+\par C:\\Arquivos de programas\\Winamp\\Winamp.exe c:\\minha_musica.mp3
+\par 
+\par Alguns mp3 players pedem mais alguma antes como /play %s... 
+\par Caso n\'e3o seja o winamp verifique a documenta\'e7\'e3o do seu programa.
+\par 
+\par \b Pastas \b0 
+\par Na ultima Aba temos um recurso extra para pastas genericas.
+\par 
+\par \pard\qc\cf2\ul\protect #preferencias3.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par O Master Mp3 Catalog tenta cadastrar as musicas da melhor forma possivel.
+\par Primeiro ele procura os datalhes da musica (nome da banda, nome da musica, etc) em algumas informa\'e7\'f5es dentro do arquivo mp3, por\'e9m algumas vezes essas informa\'e7\'f5es n\'e3o est\'e3o preenchidas.
+\par 
+\par Nesse caso o Master Mp3 Catalog tem duas saidas.
+\par A primeira ele considera o nome da pasta como sendo o nome da banda (ou artista que criou essa musica).
+\par ou seja:
+\par c:\\mp3\\Therion\\O Fortuna.mp3
+\par Banda = Therion
+\par Musica = O Fortuna
+\par 
+\par 
+\par A segunda saida, se a pasta que as musicas estiverem est\'e1 nessa lista dessa tela ele cadastra da seguinte forma
+\par As primeiras palavras at\'e9 o Delimitador \'e9 o nome da banda e a segunda ele considera como nome da musica.
+\par Ou seja, se o delimitador for "-" e a musica estiver na pasta diversos
+\par c:\\diversos\\A industrya - infinite war.mp3
+\par 
+\par Ele ir\'e1 cadastrar 
+\par Banda = A industrya
+\par Musica = infinite war
+\par \lang1033\f1 
+\par }
+0
+0
+3
+preferencias1.bmp
+preferencias2.bmp
+preferencias3.bmp
+Principal
+
+8
+
+
+23
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\lang1046\b\fs20 Tela Principal\b0 
+\par \pard 
+\par Essa \'e9 a primeira tela do programa, 
+\par Ela \'e9 composta por duas abas.
+\par Na primeira s\'e3o exibidos todos seus CDs (ou volumes) cadastrados.
+\par 
+\par \pard\qc\cf2\ul\protect #main1.bmp#\cf1\ulnone  \protect0 
+\par \pard\lang1033\f1 
+\par 
+\par 
+\par \lang1046\f0 A segunda \'e9 uma ferramenta de busca.
+\par Nessa tela tamb\'e9m tem a op\'e7\'e3o de fazer uma busca por todos diversos dados cadastrados (como artista, nome da musica etc). Basta selecionar o que pretende localizar em Tipo e clicar no bot\'e3o Procurar.\lang1033\f1 
+\par 
+\par \pard\qc\cf2\ul\protect #main2.bmp#\cf1\ulnone  \protect0 
+\par \pard 
+\par 
+\par \lang1046\f0 Na tela principal tamb\'e9m temos a \cf2\ul\protect ##Barra de Ferramentas##\cf1\ulnone  \protect0 .
+\par 
+\par \pard\qc\cf2\ul\protect #main3.bmp#\cf1\ulnone  \lang1033\protect0\f1 
+\par \pard 
+\par }
+0
+1
+Barra de Ferramentas
+0
+Barra de Ferramentas
+Barra de Ferramentas
+FALSE
+3
+main1.bmp
+main2.bmp
+main3.bmp

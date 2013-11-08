@@ -1,0 +1,85 @@
+Listando arquivos e subdiretórios...
+Lendo os dados...
+Atualizando Lista...
+Total:
+Atualizando Arvore...
+Você deseja apagar o volume
+Excluindo...
+&Arquivo
+&Editar
+A&juda
+&Importar
+Importar Arquivos
+&Salvar
+Salvar lista
+Adicionar &Volume
+Adiciona uma unidade a ser cadastrada
+E&xcluir
+Excluir um volume
+Pre&ferencias
+Opções do programa
+Tópicos de Ajuda
+Ajuda do Programa
+S&obre
+Sobre o Master mp3 Catalog
+Sai&r
+Sair do Programa
+Atualizar
+Atualizar Lista
+Selecione o diretório:
+Nome do CD:
+Cancelar
+Procurar
+Arquivo:
+Diretório:
+Fechar
+Volume
+Atualizando idioma...
+Texto:
+Artista
+Nome
+Album
+Ano
+Comentário
+Volume
+Diretório
+Arquivo
+Todos
+Editar preferencias
+Salvar
+Idioma
+MP3 Player
+Caminho
+Programas (*.exe;*.com;*.bat)|*.exe;*.com;*.bat|Todos os arquivos (*.*)|*.*
+Tocar
+Tocar MP3
+Parametros
+Exportar
+Exportar Playlist
+PlayList (*.m3u)|*.m3u|Todos os arquivos (*.*)|*.*
+Abrir PlayList depois de salva
+Detalhes
+Detalhes do Arquivo
+Pastas
+Coloque aqui as pastas que tenham mp3 de bandas diferentes:
+Delimitador:
+Exportar HTML
+Exportar Arquivo HTML
+Mude a ordem do item arrastando e soltando
+Propriedades da Página
+Visualizar
+Título
+Cor da Fonte
+Cor do Fundo
+Adicionar cabeçalho
+Exportar
+Salvar como
+Salvar as alterações no banco de dados?
+Tudo
+Alterar
+Cancelar
+Alterar drive
+Alterar drive de origem desse volume
+Alterar todos os drives
+Drive Atual:
+Novo Drive:

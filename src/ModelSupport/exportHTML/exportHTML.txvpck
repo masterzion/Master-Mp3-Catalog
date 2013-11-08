@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="rw1hw278n_v">
+    <property name="$name" value="exportHTML" />
+    <property name="$defaultDiagram" value="True" />
+    <property name="$metaclass" value="Package Diagram" />
+    <reference referencedUin="delphi:e_class:src:mmc:exportHTML.TFormExportHTML">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.PageControl" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.TabSheetEdita" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.TabSheetPreview" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.LabelCorFonte" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.LabelCorFundo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.WebBrowser" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.SaveDialog1" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.SpeedButonExport" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.SpeedClose" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.ComboCorFonte" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.ComboCorFundo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.PanelTitulo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.LabelTitulo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.EditTitulo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.chkCabecalho" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.ComboCorTitulo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.LabelCabCorFundo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.ComboCorFonteTitulo" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.LabelCabCorFonte" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.PanelLista" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.Panel3" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.CheckListBox" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.CheckBox" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.Panel1" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.CheckListBoxKeyPress" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.EditTituloKeyPress" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.CheckListBoxClickCheck" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.CheckBoxClick" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.chkCabecalhoClick" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.CheckListBoxDragDrop" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.CheckListBoxDragOver" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.CheckListBoxStartDrag" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.SpeedCloseClick" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.FormClose" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.PageControlChange" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.SpeedButonExportClick" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.FormCreate" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.ListaHTML" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.nItemAtual" />
+      <reference referencedUin="delphi:e_field:src:mmc:exportHTML.TFormExportHTML.bActivateCheck" />
+      <reference referencedUin="delphi:e_method:src:mmc:exportHTML.TFormExportHTML.GeraConteudo" />
+    </reference>
+  </view>
+</nodeSet>
